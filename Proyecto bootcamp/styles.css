@@ -1,0 +1,65 @@
+*{
+    font-family: sans-serif;
+}
+
+body{
+    margin: 0px;
+    background: rgba(193, 194, 147, 0.9);
+}
+
+
+/* nav */
+ul a {
+    text-decoration: none;
+}
+.nav-menu{
+    display: flex;
+    padding: 0 auto;
+    margin: 0 auto;
+    background: rgba(221, 222, 122, 30);
+}
+.nav-menu li{
+    text-decoration: none;
+    margin-right: 20px;
+    padding: 20px;
+}
+
+/*firts title*/
+.firts-title{
+    text-align: center;
+}
+
+
+
+/*content image-mia*/
+.contents-image{
+    display: flex;
+    margin-top: 10px;
+}
+
+.foto-mia{
+    display: flex;
+    width: 300px;
+    height: 300px;
+    border-radius: 600px;
+    margin: 0 auto;
+    padding: 0 auto;
+    transition: .2s;
+    box-shadow: rgba(224, 224, 223, .13) 12px;
+}
+.foto-mia:hover{
+    width: 400px;
+    height: 400px;
+}
+/*about me*/
+
+
+.about-me{
+    display: block;
+    text-align: center;
+}
+.about-me p{
+    font-size: 20px;
+    color: #000;
+
+}
