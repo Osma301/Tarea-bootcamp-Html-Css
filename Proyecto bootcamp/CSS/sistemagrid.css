@@ -1,0 +1,28 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.viewport-sm {
+    background-color: #3123dad2;
+    color: white;
+    font-size: 40px;
+}
+
+
+.viewport-md {
+    background-color: greenyellow;
+    font-size: 40px;
+}
+
+.viewport-lg {
+    background-color: cornflowerblue;
+    font-size: 40px;
+
+}
+
+.viewport-xl {
+    background-color: rgb(135, 139, 146);
+    font-size: 30px;
+
+}
